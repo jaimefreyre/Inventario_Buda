@@ -1,0 +1,1 @@
+Este es un proyecto de un inventario totalmente en la nube, creado para la reconfiguracion de negocios en Argentina, con sistemas de Handler o manitos de conexion, que permiten la continua actualizacion de los procesos
